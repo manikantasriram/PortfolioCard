@@ -123,10 +123,10 @@
           }
           
           .info h1 {
-            font-size: 20px;
-            font-weight: 500;
+            font-size: 24px;
+            font-weight: 800;
             color: #333;
-            margin-bottom: 10px;
+            margin-bottom: 4px;
           }
           .info p {
             font-size: 12px;
@@ -157,7 +157,7 @@
           .links {
             display: flex;
             align-items: center;
-            margin: 15px, 0;
+            margin: 10px, 0;
           }
           
           .links a {
@@ -170,12 +170,12 @@
             border-radius: 5px;
             border: 2px solid #252525;
             padding: 10px 30px;
-            margin-right: 20px;
+            margin-right: 10px;
             font-size: 8px;
           }
           
           .links a img {
-            width: 12px;
+            width: 20px;
             margin-right: 10px;
           }
           
